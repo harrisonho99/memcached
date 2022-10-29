@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "memcached.h": "c",
+        "event.h": "c",
+        "in.h": "c",
+        "time.h": "c"
+    }
+}

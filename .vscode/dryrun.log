@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/harrisonho/Documents/open_source/c/memcached'
+make: Leaving directory `/Users/harrisonho/Documents/open_source/c/memcached'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
